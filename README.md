@@ -1,4 +1,4 @@
 # Talhagit-demo
 This is learning Git repository.
 <br>
-Author - Talha Habib
+Author - Talha Habib (CS student)
